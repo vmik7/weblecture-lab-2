@@ -1,0 +1,17 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.heading {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.heading:not(:first-child) {
+    margin-top: 15px;
+}
+
+.value {
+    font-size: 14px;
+    line-height: 18px;
+}
